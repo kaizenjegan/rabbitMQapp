@@ -1,0 +1,22 @@
+{
+  "name": "rabbitmqapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "send.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaizenjegan/rabbitMQapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaizenjegan/rabbitMQapp/issues"
+  },
+  "homepage": "https://github.com/kaizenjegan/rabbitMQapp#readme",
+  "dependencies": {
+    "amqplib": "^0.5.5"
+  }
+}
